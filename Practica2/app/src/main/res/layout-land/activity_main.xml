@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/note1"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/color1"
+        android:drawableTop="@mipmap/circle2"
+        android:drawableBottom="@mipmap/circle2"
+        android:onClick="onClick"
+        android:tag="note1" />
+
+    <Button
+        android:id="@+id/note2"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/color2"
+        android:drawableTop="@mipmap/circle2"
+        android:drawableBottom="@mipmap/circle2"
+        android:onClick="onClick"
+        android:tag="note2" />
+
+    <Button
+        android:id="@+id/note3"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/color3"
+        android:drawableTop="@mipmap/circle2"
+        android:drawableBottom="@mipmap/circle2"
+        android:onClick="onClick"
+        android:tag="note3" />
+
+    <Button
+        android:id="@+id/note4"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/color4"
+        android:drawableTop="@mipmap/circle2"
+        android:drawableBottom="@mipmap/circle2"
+        android:onClick="onClick"
+        android:tag="note4" />
+
+    <Button
+        android:id="@+id/note5"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/color5"
+        android:drawableTop="@mipmap/circle2"
+        android:drawableBottom="@mipmap/circle2"
+        android:onClick="onClick"
+        android:tag="note5" />
+
+    <Button
+        android:id="@+id/note6"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/color6"
+        android:drawableTop="@mipmap/circle2"
+        android:drawableBottom="@mipmap/circle2"
+        android:onClick="onClick"
+        android:tag="note6" />
+
+    <Button
+        android:id="@+id/note7"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/color7"
+        android:drawableTop="@mipmap/circle2"
+        android:drawableBottom="@mipmap/circle2"
+        android:onClick="onClick"
+        android:tag="note7" />
+</LinearLayout>

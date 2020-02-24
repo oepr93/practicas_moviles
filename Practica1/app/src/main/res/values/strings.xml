@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Practica 1</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_0">0</string>
+    <string name="punto">.</string>
+    <string name="btn_suma">+</string>
+    <string name="btn_resta">-</string>
+    <string name="btn_mult">x</string>
+    <string name="btn_div">/</string>
+    <string name="btn_ac">AC</string>
+    <string name="btn_igual">=</string>
+    <string name="btn_cos">COS</string>
+    <string name="btn_sen">SEN</string>
+    <string name="btn_tan">TAN</string>
+    <string name="btn_sec">COSH</string>
+    <string name="btn_csc">SENH</string>
+    <string name="btn_ctg">TANH</string>
+    <string name="btn_raiz">2√</string>
+    <string name="btn_raiz3">3√</string>
+    <string name="btn_pow">pow</string>
+    <string name="btn_par">( )</string>
+    <string name="btn_par_i">(</string>
+    <string name="btn_par_d">)</string>
+    <string name="btn_potencia">^</string>
+    <string name="btn_potencia_cuadrada">^2</string>
+    <string name="btn_potencia_cub">^3</string>
+    <string name="btn_mod">%</string>
+    <string name="btn_div_entera">\</string>
+
+</resources>

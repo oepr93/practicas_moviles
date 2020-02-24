@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7F1A11</color>
+    <color name="colorPrimaryDark">#4e0000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorFuncBtnBackground">#cccccc</color>
+    <color name="colorFuncBtnText">#4e0000</color>
+    <color name="colorNumBtnBackground">#dddddd</color>
+    <color name="colorNumBtnText">#333333</color>
+    <color name="btn_principal">#7F1A11</color>
+    <color name="btn_numeros">@android:color/white</color>
+    <color name="procedimiento">#686867</color>
+</resources>

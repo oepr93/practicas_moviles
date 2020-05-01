@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Imagenes</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonDrawBitmapText">Cargar Bitmap</string>
+    <string name="itemMenuLoadBitmapTitle">Cargar Bitmap</string>
+    <string name="itemMenuExitApp">Salir de la App</string>
+</resources>

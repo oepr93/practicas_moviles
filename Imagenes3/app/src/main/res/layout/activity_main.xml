@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayoutMainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="10dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/text_img"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:text="TextView"
+        android:textAlignment="center" />
+
+    <ImageView
+        android:id="@+id/imageViewBitmap"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7" />
+
+    <Button
+        android:id="@+id/buttonDrawBitmap"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:background="@android:color/background_dark"
+        android:drawableStart="@android:drawable/ic_menu_add"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        android:text="@string/buttonDrawBitmapText"
+        android:textColor="@android:color/background_light" />
+</LinearLayout>
+
